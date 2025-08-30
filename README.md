@@ -9,10 +9,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/lakshi4](https://github.com/lakshi4)
 
-- 📫 How to reach me **LinkedIn**
+- 📫 How to reach me **LinkedIn: www.linkedin.com/in/lakshiwijamunige**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">LinkedIn
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
